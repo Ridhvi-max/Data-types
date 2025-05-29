@@ -1,2 +1,2 @@
-x = "Congratulations"
+x = "congratulations"
 print(x.upper())
