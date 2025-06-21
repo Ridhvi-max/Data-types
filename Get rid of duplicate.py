@@ -1,0 +1,21 @@
+student_data={'id1':
+    {'name':["Sara"],
+     "class":["v"],
+     "subject_integration":["English,math,science"]
+    },
+    "id2":
+    {"name":["David"],
+     "class":["V"],
+     "subject_integration":["English,math,science"]
+     },
+     "id3":
+     {"name":["Sara"],
+     "class":["V"],
+     "subject_integration":["English,math,science"]
+     },
+     "id4":
+     {"name":["Surya"],
+     "class":["V"],
+     "subject_integration":["English,math,science"]
+     },
+}
