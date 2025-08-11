@@ -1,0 +1,15 @@
+from tkinter import *
+def multiply():
+    result.config(text=float(num1.get())*float(num2.get()))
+window=Tk()
+window.title("Multiply Two Numbers")
+Label(window,text="First Number:").pack()
+num1=Entry(window)
+num1.pack()
+Label(window,text="Second Number:").pack()
+num2=Entry(window)
+num2.pack()
+Button(window,text="Multiply",command=multiply).pack()
+result=Label(window,text="")
+result.pack()
+window.mainloop()
